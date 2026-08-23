@@ -18,19 +18,6 @@
       </div>
     </v-alert>
     <div class="hero-background">
-      <!-- Good Morning America correction -->
-      <div class="text-center pt-4 mb-0">
-        <v-btn
-          to="/blog/415"
-          size="small"
-          variant="flat"
-          color="white"
-          prepend-icon="mdi-television-classic"
-          append-icon="mdi-arrow-right-thick"
-        >
-          Setting the Record Straight
-        </v-btn>
-      </div>
       <v-container class="text-center pb-8 pt-4">
         <v-row justify="center">
           <v-col cols="12" md="8">
