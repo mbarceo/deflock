@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths:
       - 'serverless/alpr_counts/**'
+  workflow_dispatch: {}
 
 jobs:
   deploy:
